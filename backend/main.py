@@ -291,7 +291,7 @@ def llm(payload: LLMRequest) -> dict[str, Any]:
 
     client = OpenAI(api_key=api_key)
     completion = client.chat.completions.create(
-        model=payload.model or os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
+        model=payload.model or os.getenv("OPENAI_MODEL", "gpt-5.6-luna"),
         messages=payload.messages,
         temperature=payload.temperature,
         max_tokens=payload.max_tokens,
