@@ -161,4 +161,3 @@ A GitHub repository containing:
 - Questions about the task? Write to us. A good question is a good sign.
 
 Good luck.
-# sanvivo-support-cockpit
