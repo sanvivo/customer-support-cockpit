@@ -146,7 +146,7 @@ A GitHub repository containing:
      deferred — both are valid answers; saying nothing is not.
    - **AI usage:** Which tools (Cursor, Claude Code, Copilot …)? Where did they help?
      **And where did you reject a suggestion — why?**
-3. **A screenshot or a video of at most 60 seconds** showing the running app.
+3. OPTIONAL: **A screenshot or a video of at most 60 seconds** showing the running app.
 
 ---
 
@@ -161,3 +161,4 @@ A GitHub repository containing:
 - Questions about the task? Write to us. A good question is a good sign.
 
 Good luck.
+# customer-support-cockpit
